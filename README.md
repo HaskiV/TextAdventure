@@ -3,6 +3,7 @@
 
 ## Для Windows
 Загрузите версию для своего ноутбука через https://www.python.org/downloads/
+
 Ваш ноутбук/ПК с установленной версией Python 3.6.x или новее.
 
 ## Для Linux и MacOSX
